@@ -1,6 +1,6 @@
 {
   "homepage": "https://vikrantguleria.tech/",
-  "name": "leaflet-app",
+  "name": "leaflet-react-demo-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
