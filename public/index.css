@@ -1,0 +1,14 @@
+.container {
+  padding: 10px;
+  margin: 10px;
+  background: brown;
+  width: 400px;
+}
+.draggable {
+  padding: 10px;
+  background: white;
+}
+
+.dragging {
+  opacity: 0.5;
+}
